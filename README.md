@@ -16,3 +16,5 @@ Finished Section 2 and 1st app
 Started Section 3
 Finished Section 3 
 Started Section 4
+Finished Video 47
+Created the new app
