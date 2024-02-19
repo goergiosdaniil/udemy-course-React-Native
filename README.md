@@ -13,4 +13,6 @@ Into section 2, we will create a course goals app
 
 19/02/2024
 Finished Section 2 and 1st app
-Starting Section 3
+Started Section 3
+Finished Section 3 
+Started Section 4
