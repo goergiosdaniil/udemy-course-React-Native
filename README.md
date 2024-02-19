@@ -12,4 +12,5 @@ I finished Section 1
 Into section 2, we will create a course goals app
 
 19/02/2024
-Finished 22 Video of Section 2
+Finished Section 2 and 1st app
+Starting Section 3
