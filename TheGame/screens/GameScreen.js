@@ -1,10 +1,11 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 
-function GameScreen() {
+function GameScreen({ chosenNumber }) {
   return (
-    <View>
+    <View >
       <Text>This is the Game screen</Text>
+      <Text>The chosen number is {chosenNumber}</Text>
     </View>
   );
 }
